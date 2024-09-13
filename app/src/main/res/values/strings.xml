@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaiTapLogin</string>
+    <string name="tendangnhap">Tên đăng nhập</string>
+    <string name="mk">Mật khẩu</string>
+</resources>
